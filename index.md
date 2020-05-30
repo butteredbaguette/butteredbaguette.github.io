@@ -1,5 +1,7 @@
 # Simplistic Site
 
+[Photo Gallery](photogallery)
+
 ## Welcome to my site!
 
 Hello, my name is Hurayrah. This is my website.
